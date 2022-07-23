@@ -4,5 +4,3 @@ my todo list
 2 read
 3 eat
 4 update
-5 new
-6 branch
