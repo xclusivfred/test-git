@@ -1,6 +1,6 @@
 my todo list
 
-1 code
+1 create
 2 read
-3 eat
-4 update
+3 update 
+4 delete 
